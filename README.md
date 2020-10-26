@@ -4,7 +4,7 @@
 **NamanZelawat/NamanZelawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on competitive coding and a some internships.
+- 🔭 I’m currently working on competitive coding and some internships.
 - 🌱 I’m currently learning testing frameworks, algorithms and data structures.
 - 👯 I’m looking to collaborate on projects using react.js, express.js, electron.js, webrtc and socket.io.
 - 🤔 I’m looking for help with some collaborative projects.
